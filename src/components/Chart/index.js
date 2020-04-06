@@ -5,7 +5,7 @@ class D3Chart {
 
     // props 
     this.chartHeight = 500
-    this.chartWidth = 1500
+    this.chartWidth = 1000
 
     // init svg
     const svg = d3.select(element)
