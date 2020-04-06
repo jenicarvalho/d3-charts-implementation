@@ -1,6 +1,6 @@
-# D3 Implementation
+## D3 Implementation
 
-## How to use
+# How to use
 ```bash
 npm install
 npm start
